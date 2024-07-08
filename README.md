@@ -1,6 +1,6 @@
 These links includes dashboards that visualize and analyze COVID-19 data in New York State, focusing on vaccination rates among healthcare workers, regional disparities in infections and hospitalizations, and the correlation between hospital density and vaccine uptake. Additionally, it explores nationwide impacts of the pandemic, such as the surge in internet usage due to remote work, as well as the potential for gender-specific differences in COVID-19 symptoms, particularly fever prevalence in May 2020.
 
-Hypothesis 1: In New York State, in 2022, COVID vaccination rates among healthcare workers peaked at 65% fully vaccinated and 55% boosted in Q2 as compared to Q1 before declining by 5
+--- Hypothesis 1: In New York State, in 2022, COVID vaccination rates among healthcare workers peaked at 65% fully vaccinated and 55% boosted in Q2 as compared to Q1 before declining by 5
 percentage in Q3, due to decreasing COVID cases over time.
 Link - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard-Hypo1/VaccinatedDetails
 
