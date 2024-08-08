@@ -13,8 +13,8 @@ Links 2 - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisua
 Links 3 - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard3-Hypo3/Dashboard3-Hypo3 
 
 <h3> Hypothesis 4:</h3> Due to high population in New York, the COVID hospitalization rate of New York County was 0.5% of the total population i.e. 1,578,801 versus 0.3% of the populations of other counties that are not in metropolitan areas from October 2021 - July 2023.<br>
-Link - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard-Hypo4/Hypothesis4
-https://public.tableau.com/app/profile/radhika.dubey2722/vizzes
+Link 1 - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard-Hypo4/Hypothesis4 <br>
+Link 2 - https://public.tableau.com/app/profile/radhika.dubey2722/vizzes
 
 <h3> Hypothesis 5:</h3> The United States has witnessed the use of a daily internet communication surge of over 25% during the COVID-19 pandemic in 2020 compared to the pre-COVID era, due to increased preference for remote work / WFH.<br>
 Link - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard-Hypo5/Hypothesis5
