@@ -8,9 +8,9 @@ attendance among metropolitan residents.<br>
 Link - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard-Hypo2/Hypothesis2
 
 <h3> Hypothesis 3:</h3> In New York metropolitan counties, from January 2021 – December 2023, metropolitan counties are 45% more vaccinated compared to non-metropolitan counties, due to metropolitan counties having a greater number of hospitals.<br>
-Links 1 - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard1-Hypo3/Dashboard1-Hypo3
-Links 2 - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard2-Hypo3/Dashboard2-Hypo3
-Links 3 - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard3-Hypo3/Dashboard3-Hypo3
+Links 1 - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard1-Hypo3/Dashboard1-Hypo3 <br>
+Links 2 - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard2-Hypo3/Dashboard2-Hypo3 <br>
+Links 3 - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard3-Hypo3/Dashboard3-Hypo3 
 
 <h3> Hypothesis 4:</h3> Due to high population in New York, the COVID hospitalization rate of New York County was 0.5% of the total population i.e. 1,578,801 versus 0.3% of the populations of other counties that are not in metropolitan areas from October 2021 - July 2023.<br>
 Link - https://public.tableau.com/app/profile/radhika.dubey2722/viz/DataVisualizationDashboard-Hypo4/Hypothesis4
